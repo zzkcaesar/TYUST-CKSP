@@ -18,7 +18,7 @@
 
 ***因为有你们的支持，本项目才能有更大的前进动力。欢迎大家star，或者share本仓库***
 
-如果希望匿名贡献，可以email至此邮箱，注明"KSP"即可：zzkcaesar@outlook.com
+如果希望匿名贡献，可以email至此邮箱，注明"CKSP"即可：zzkcaesar@outlook.com
 
 ## 操作方法
 
