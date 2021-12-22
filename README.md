@@ -18,6 +18,8 @@
 
 如果有你们的支持，本项目才能有更大的前进动力。
 
+如果希望匿名贡献，可以email至此邮箱，注明"KSP"即可：zzkcaesar@outlook.com
+
 ## 操作方法
 
 提交Pull Request：Fork本项目，然后在GitHub网页端点击Upload File上传文件，发起Pull Request即可。记得留意项目的文件组织架构。
