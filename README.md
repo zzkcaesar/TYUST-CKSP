@@ -14,6 +14,8 @@
 
 欢迎学弟学妹，和已经毕业的学长学姐对本项目关注、贡献和支持。
 
+大家也可以在[gitee](https://gitee.com/caesarzzk/TYUST-CKSP)访问此项目。
+
 欢迎大家提出issue、Pull Request、纠错、资料、考试攻略。
 
 ***因为有你们的支持，本项目才能有更大的前进动力。欢迎大家star，或者share本仓库***
